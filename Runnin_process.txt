@@ -1,0 +1,5 @@
+1. Run the code Using>> python manage.py runserver
+2. got to url http://127.0.0.1:8000
+3.  first signup then login
+4. After Login You can write post
+5. only superuser can delete the post
